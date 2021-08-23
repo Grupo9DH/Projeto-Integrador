@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_nano_padding">4dp</dimen>
+    <dimen name="layout_half_padding">8dp</dimen>
+    <dimen name="xp_bar_thickness">18dp</dimen>
+    <dimen name="name_text">18sp</dimen>
+    <dimen name="xp_bar_margin">62dp</dimen>
+</resources>

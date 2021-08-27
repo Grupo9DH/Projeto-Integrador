@@ -7,17 +7,17 @@
 
     <fragment
         android:id="@+id/profileFragment"
-        android:name="com.github.grupo9dh.projetointegrador.ProfileFragment"
+        android:name="com.github.grupo9dh.projetointegrador.presenter.ui.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />
     <fragment
         android:id="@+id/moviesFragment"
-        android:name="com.github.grupo9dh.projetointegrador.MoviesFragment"
+        android:name="com.github.grupo9dh.projetointegrador.presenter.ui.MoviesFragment"
         android:label="fragment_movies"
         tools:layout="@layout/fragment_movies" />
     <fragment
         android:id="@+id/watchedFragment"
-        android:name="com.github.grupo9dh.projetointegrador.WatchedFragment"
+        android:name="com.github.grupo9dh.projetointegrador.presenter.ui.WatchedFragment"
         android:label="fragment_watched"
         tools:layout="@layout/fragment_watched" />
 </navigation>

@@ -1,9 +1,10 @@
-package com.github.grupo9dh.projetointegrador
+package com.github.grupo9dh.projetointegrador.presenter.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.NavigationUI.setupWithNavController
+import com.github.grupo9dh.projetointegrador.R
 import com.github.grupo9dh.projetointegrador.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

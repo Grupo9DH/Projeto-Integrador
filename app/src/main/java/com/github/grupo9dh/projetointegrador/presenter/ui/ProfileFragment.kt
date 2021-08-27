@@ -1,4 +1,4 @@
-package com.github.grupo9dh.projetointegrador
+package com.github.grupo9dh.projetointegrador.presenter.ui
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

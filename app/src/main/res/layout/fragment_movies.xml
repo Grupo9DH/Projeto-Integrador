@@ -10,7 +10,7 @@
         android:clipToPadding="false"
         android:paddingTop="2dp"
         android:transitionGroup="true"
-        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
         tools:listitem="@layout/item_movies" />
 
 </layout>

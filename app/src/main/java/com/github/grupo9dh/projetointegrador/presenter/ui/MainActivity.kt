@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         setupBottomNavigation()
+        setSupportActionBar(binding.toolbar)
     }
 
     private fun setupBottomNavigation() {
